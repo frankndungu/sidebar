@@ -1,2 +1,15 @@
-# A responsive sidebar made using html5, css3 and javascript.
+# sidebar
+
+# Technologies used
+html5
+css3
+javascript
+
+# Features 
+animation
+responsiveness
+
+
+
+
 
