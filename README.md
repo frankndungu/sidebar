@@ -1,2 +1,2 @@
-# A sidebar made using html5, css3 and javascript.
+# A responsive sidebar made using html5, css3 and javascript.
 
